@@ -3,7 +3,7 @@ package Acme::AlgebraicToRPN;
 use warnings;
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 
@@ -11,7 +11,7 @@ Acme::AlgebraicToRPN - convert algebraic notation to sane RPN
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 
